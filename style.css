@@ -281,9 +281,7 @@ body {
   }
 
   .text {
-      font-size: 0.5em; /* Ajuste del tamaÃ±o de fuente */
-      margin: auto;
-      align-items: center;
-      line-height:  1.8;
+      font-size: 1.5em; /* Ajuste del tamaÃ±o de fuente */
+     
   }
 }
