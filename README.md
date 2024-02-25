@@ -1,2 +1,0 @@
-# gabywebcarta
-isforalove
